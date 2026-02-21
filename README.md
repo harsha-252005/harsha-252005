@@ -11,9 +11,20 @@
 
 - 🎓 3rd Year Information Technology Student  
 - 💻 Passionate about Full Stack Development  
-- 🌾 Building solutions for Rural & Educational Development  
-- 🧠 Practicing Data Structures & Algorithms  
+- 🧠 Strong in Data Structures & Algorithms  
+- 🌍 Interested in EdTech, HealthTech & Real Estate Systems  
 - 🎯 Goal: Become a Skilled Software Engineer  
+
+---
+
+## 🚀 Projects
+
+- 🌾 **Rural Learning Management System** – Offline-enabled LMS  
+- 💼 **Freelancer Marketplace** – Spring Boot CRUD Application  
+- 🌐 **FarmNect** – Farmer-to-market platform  
+- 🎨 **ArtiNect** – Cultural Learning Portal  
+- 🏥 **Migo Health** – Health management web application  
+- 🏘️ **Real Estate Listing System** – Property management & listing platform  
 
 ---
 
@@ -31,20 +42,14 @@
 ### ⚙️ Backend
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🚀 Current Projects
-
-- 🌾 Rural Learning Management System  
-- 💼 Freelancer Marketplace (Spring Boot CRUD)  
-- 🌐 FarmNect Platform  
-- 🎨 ArtiNect Cultural Portal  
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-LMS-blue?style=for-the-badge)
 
 ---
 
@@ -55,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-252005&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=harsha-252005&theme=tokyonight" />
 </p>
 
 <p align="center">
