@@ -55,19 +55,11 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsha-252005&show_icons=true&theme=tokyonight" />
-</p>
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsha-252005&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=harsha-252005&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=harsha-252005&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-252005&layout=compact&theme=tokyonight" />
-</p>
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-252005&layout=compact&theme=tokyonight)
 
 ## 🤝 Connect With Me
 
